@@ -9,7 +9,6 @@ function commonElements(arr1, arr2) {
     for (words of newArr) {
         console.log(words);
     }
-
 }
 commonElements(['S', 'o', 'f', 't', 'U', 'n', 'i', ' '],
     ['s', 'o', 'c', 'i', 'a', 'l']);
